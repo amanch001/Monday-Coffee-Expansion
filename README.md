@@ -1,5 +1,6 @@
-![1 (1)](https://github.com/user-attachments/assets/e734fd2d-a851-49db-a5f9-18aed0717763)
 # Monday Coffee Expansion SQL Project
+![1 (1)](https://github.com/user-attachments/assets/e734fd2d-a851-49db-a5f9-18aed0717763)
+
 
 
 ## Objective
